@@ -59,29 +59,29 @@ h1, h2, h3, h4, p {
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url(/Images/gift-box.jpg);
+    background-image: url("./Images/gift-box.jpg");
     background-size: cover;
     background-size: contain;
 }
 
 #gift-img-congrats:hover {
-    background-image: url(/Images/Grad.GIFs.gif) ;
+    background-image: url("./Images/Grad.GIFs.gif");
 }
 
 #gift-img-boss:hover {
-    background-image: url(/Images/Like\ A\ Boss\ Money\ GIF.gif) ;
+    background-image: url("./Images/Like\ A\ Boss\ Money\ GIF.gif") ;
 }
 
 
 #gift-img-generous:hover {
-    background-image: url(/Images/Money\ Paper\ GIF.gif) ;
+    background-image: url("./Images/Money\ Paper\ GIF.gif") ;
 }
 
 
 
 
 #gift-img-badass:hover {
-    background-image: url(/Images/Walk\ Away\ Badass\ GIF.gif);
+    background-image: url("./Images/Walk\ Away\ Badass\ GIF.gif");
 }
 
 #gift-img-cheers {
@@ -89,7 +89,7 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-cheers:hover{
-    background-image: url(/Images/Cheers\ GIF.gif);
+    background-image: url("./Images/Cheers\ GIF.gif");
 }
 
 #footer {
